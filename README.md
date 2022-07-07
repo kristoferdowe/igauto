@@ -8,3 +8,7 @@ You will have to create a .env file to store your environment variables to log i
 
 pro-tip
 Don't forget to specify the initial user whose followers you want to target.
+
+
+INSTAUTO DOCUMENTATION:
+https://instauto.readthedocs.io/en/latest/
